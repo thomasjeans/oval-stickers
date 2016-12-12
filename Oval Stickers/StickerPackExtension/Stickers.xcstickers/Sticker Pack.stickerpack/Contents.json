@@ -1,6 +1,12 @@
 {
   "stickers" : [
     {
+      "filename" : "xmas-2016.sticker"
+    },
+    {
+      "filename" : "han-2016.sticker"
+    },
+    {
       "filename" : "0.sticker"
     },
     {
@@ -119,12 +125,6 @@
     },
     {
       "filename" : "51.sticker"
-    },
-    {
-      "filename" : "100.sticker"
-    },
-    {
-      "filename" : "101.sticker"
     }
   ],
   "info" : {
